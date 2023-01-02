@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @match        *
+// @update       https://github.com/jhudora/userscripts/raw/main/TestUserScript.user.js
 // ==/UserScript==
 
 console.log("TEST");
