@@ -6,7 +6,7 @@
 // @author       You
 // @match        *
 // @updateURL    https://github.com/jhudora/userscripts/raw/main/TestUserScript.user.js
-// @downloadURL    https://github.com/jhudora/userscripts/raw/main/TestUserScript.user.js
+// @downloadURL  https://github.com/jhudora/userscripts/raw/main/TestUserScript.user.js
 // ==/UserScript==
 
-console.log("TEST FUCKING 2");
+console.log("TEST FUCKING 3");
