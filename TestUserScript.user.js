@@ -8,4 +8,4 @@
 // @updateURL    https://github.com/jhudora/userscripts/raw/main/TestUserScript.user.js
 // ==/UserScript==
 
-console.log("TEST");
+console.log("TEST FUCKING 2");
